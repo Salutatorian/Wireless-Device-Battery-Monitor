@@ -1,5 +1,7 @@
 # BatteryHub
 
+> **Fork note.** BatteryHub is not this fork's work. It is Kris's app, [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor), licensed GPL-3.0. This repository is a fork of that project. The only addition is a [photos edition](photos-edition/README.md) for two ATK mice: device photos on the taskbar, and a charging mark.
+
 *Formerly **Wireless Battery**. Version 1.1.0 renamed the app; an update keeps your settings, startup choice and battery history.*
 
 [![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/krisgfx)
